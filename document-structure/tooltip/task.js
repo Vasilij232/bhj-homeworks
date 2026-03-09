@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	const tooltips = document.querySelectorAll('.has-tooltip');
 	let tooltip = null;
 
-	tooltips.forEach(link => {
+	tooltips.forEach (link => {
 		link.addEventListener('click', function(e) {
 			e.preventDefault();
 
