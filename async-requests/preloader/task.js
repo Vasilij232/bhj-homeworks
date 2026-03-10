@@ -1,4 +1,4 @@
-async function loadCourses() {
+async function loadCourses () {
 	const loader = document.getElementById('loader');
 	const items = document.getElementById('items');
 
