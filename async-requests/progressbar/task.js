@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
 	const form = document.getElementById('form');
 	const progress = document.getElementById('progress');
 	const sendBtn = document.getElementById('send');
